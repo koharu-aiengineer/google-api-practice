@@ -1,0 +1,12 @@
+# 認証情報（Git に載せない）
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+token_docs.json
+token.json
+credentials.json
